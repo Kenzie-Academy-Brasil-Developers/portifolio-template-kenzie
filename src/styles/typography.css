@@ -1,0 +1,27 @@
+.title1{
+  font-family: var(--font-family);
+  font-size: 6.25rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.title2{
+  font-family: var(--font-family);
+  font-size: 100px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.title3{
+  font-family: var(--font-family);
+  font-size: 100px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.text1{
+  font-family: var(--font-family);
+  font-size: 100px;
+  font-weight: 500;
+  line-height: 1.4;
+}

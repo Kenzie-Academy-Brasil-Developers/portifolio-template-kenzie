@@ -1,8 +1,10 @@
-function App() {
+import { HomePage } from './pages/HomePage'
+import './styles/index.css'
 
+function App() {
   return (
     <div>
-      <h1>ola mundo</h1>
+      <HomePage />
     </div>
   )
 }
