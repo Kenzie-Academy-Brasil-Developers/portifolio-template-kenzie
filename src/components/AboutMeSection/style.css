@@ -1,0 +1,9 @@
+.containerAboutMe{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 20%;  
+
+}
+.boxTextAbout{
+  width: 615px;
+}

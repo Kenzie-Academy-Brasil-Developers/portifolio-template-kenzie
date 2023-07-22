@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 20%; 
+}
+
+.box-primary{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 320px;
+}
+
+.textBanner{
+  margin: 10px 0px;
+}

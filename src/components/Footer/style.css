@@ -1,0 +1,29 @@
+footer{
+  display: flex;
+  justify-content: space-between;
+  height: 190px;
+  padding: 50px 20%; 
+  margin-bottom: 18px;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
+  
+}
+
+.containerSocialMedia{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 86px;
+}
+
+.footerBoxOne{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footerBoxTwo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

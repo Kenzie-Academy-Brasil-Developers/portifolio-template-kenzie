@@ -3,3 +3,34 @@
   --color-black: #000;
   --font-family: 'Inter', sans-serif;
 }
+
+body{
+  background-color: #181818;
+}
+
+button{
+  background-color: #6880FF;
+  height: 39px;
+  border-radius: 12px;
+  padding: 0 25px;
+  cursor: pointer;
+  border: none;
+}
+
+ul,ol{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+input, select, textarea{
+  background: transparent;
+  border: none;
+}
+
+img{
+  max-width: 100%;
+}
+

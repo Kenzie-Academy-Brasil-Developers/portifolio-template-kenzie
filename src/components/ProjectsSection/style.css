@@ -1,0 +1,6 @@
+.sectionProjects{
+  display: flex;
+  flex-direction: column;
+  padding: 50px 20%;  
+  gap: 28px;
+}

@@ -1,0 +1,16 @@
+.cardBoxProject{
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  width: 439px;
+  height: 183px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.50);
+}
+
+.cardBoxDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
