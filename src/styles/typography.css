@@ -12,7 +12,6 @@
   font-weight: 800;
   line-height: 1.4;
   color: var(--color-white);
-
 }
 
 .title3{
@@ -20,8 +19,15 @@
   font-size: 0.875rem;
   font-weight: 600;
   line-height: 1.4;
-  color: var(--color-white);
+}
 
+.title4{
+  font-family: var(--font-family);
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--color-white);
+  cursor: pointer;
 }
 
 .logo{
@@ -30,7 +36,6 @@
   font-weight: 800;
   line-height: 1.4;
   color: var(--color-white);
-
 }
 
 .text1{

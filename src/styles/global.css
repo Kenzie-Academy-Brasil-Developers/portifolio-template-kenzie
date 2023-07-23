@@ -17,12 +17,21 @@ button{
   border: none;
 }
 
+button:hover{
+  background-color: #7C91FF;
+}
+
 ul,ol{
   list-style: none;
 }
 
 a{
   text-decoration: none;
+  color: #7B61FF;
+}
+
+a:hover{
+  color: #7C91FF;
 }
 
 input, select, textarea{

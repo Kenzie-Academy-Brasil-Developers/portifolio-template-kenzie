@@ -7,13 +7,13 @@ import { TechSection } from "../../components/TechSection"
 
 export const HomePage = () => {
   return(
-    <div>
+    <>
       <Header/>
       <BannerSection/>
       <AboutMeSection/>
       <TechSection/>
       <ProjectsSection/>
       <Footer/>
-    </div>
+    </>
   )
 }
